@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/schoonover-aric/react-contact-form.git"
   },
-  "author": "",
+  "author": "Aric Schoonover",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/schoonover-aric/react-contact-form/issues"
